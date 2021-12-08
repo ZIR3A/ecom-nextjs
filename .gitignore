@@ -4,6 +4,8 @@
 node_modules
 /.pnp
 .pnp.js
+.config.js
+
 
 # testing
 /coverage
@@ -11,6 +13,7 @@ node_modules
 # next.js
 .next/
 /out/
+next.config.js
 
 # production
 /build
@@ -32,3 +35,4 @@ yarn-error.log*
 
 # vercel
 .vercel
+
